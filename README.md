@@ -1,5 +1,6 @@
 # **Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!**
 
+## Co-located with [CGO'19](http://cgo.org/cgo2019/)
 
 ## Purpose and Scope of OMASE
 
