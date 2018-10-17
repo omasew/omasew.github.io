@@ -1,4 +1,4 @@
-# Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!
+#### **Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!**
 
 
 ## Purpose and Scope of OMASE
@@ -38,24 +38,25 @@ Topics amenable to our workshop include, but are not limited to, the following:
 ```markdown
 • Hal Finkel (Argonne National Laboratory)
 • Michel Steuwer (University of Glasgow)
-• Daniele Spampinato (CMU)
+• Daniele Spampinato (Carnegie Mellon University)
 • Florina Ciorba (Univ. of Basel, Switzerland) 
 • Shoaib Kamil (Adobe)
 • Michael Kruse (Argonne National Laboratory) 
-• Tze Meng (CMU)
-• Franz Franchetti (CMU)
+• Tze Meng (Carnegie Mellon University)
+• Franz Franchetti (Carnegie Mellon University)
 • Richard Veras (Louisiana State Univ)
 ```
 
 ## Deadlines
 
-```markdown
+
 - OMASE website live: October 17, 2018
 - Call for papers: October 19, 2018
-- **Paper submission deadelin: December 28, 2018**
+- **Paper submission deadeline: December 28, 2018**
 - Notifications: January 11, 2019
 - Workshop date: February XYZ, 2019
-```
+
+
 ## Questions
 
-For more information please write us at [OMASE Workshop](omase.workshop@gmail.com)
+For more information please write us at omase.workshop@gmail.com
