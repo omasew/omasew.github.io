@@ -1,8 +1,5 @@
-## Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!
+# Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!
 
-You can use the [editor on GitHub](https://github.com/omasew/omasew.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Purpose and Scope of OMASE
 
@@ -33,21 +30,7 @@ Topics amenable to our workshop include, but are not limited to, the following:
 - Space exploration techniques
 - Domain specific languages
 - Adaptive run-times and frameworks
-# Header 1
-## Header 2
-### Header 3
 
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ## Program Committee
@@ -64,13 +47,15 @@ Topics amenable to our workshop include, but are not limited to, the following:
 • Richard Veras (Louisiana State Univ)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Deadlines
 
+```markdown
+- OMASE website live: October 17, 2018
+- Call for papers: October 19, 2018
+- **Paper submission deadelin: December 28, 2018**
+- Notifications: January 11, 2019
+- Workshop date: February XYZ, 2019
+```
+## Questions
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omasew/omasew.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Questions
-
-For more information please write us at omase.workshop@gmail.com
+For more information please write us at [OMASE Workshop](omase.workshop@gmail.com)
