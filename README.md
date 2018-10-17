@@ -48,8 +48,8 @@ Topics amenable to our workshop include, but are not limited to, the following:
 • Richard Veras (Louisiana State Univ)
 ```
 
-## Deadlines
 
+## Deadlines
 
 - OMASE website live: October 17, 2018
 - Call for papers: October 19, 2018
@@ -57,6 +57,9 @@ Topics amenable to our workshop include, but are not limited to, the following:
 - Notifications: January 11, 2019
 - Workshop date: February XYZ, 2019
 
+## Submission Instructions
+
+** Coming soon **
 
 ## Questions
 
