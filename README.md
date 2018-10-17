@@ -1,4 +1,4 @@
-#### **Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!**
+# **Welcome to the OMASE (Optimization, Modeling, Analysis and Space Exploration) Workshop page!!**
 
 
 ## Purpose and Scope of OMASE
