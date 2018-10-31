@@ -70,7 +70,7 @@ Please use version 1.54 or above of the following template to prepare your manus
 [Sigplan Template](https://www.acm.org/publications/proceedings-template)
 
 with 10pt font. Make sure to use the sigplan subformat. Visit the 
-[SIGPLAN AuthorResources page] (http://sigplan.org/Resources/Author/) 
+[SIGPLAN Author Resources page](http://sigplan.org/Resources/Author/) 
 for further information on SIGPLAN manuscript formatting.
 
 Papers must be submitted in PDF format (readable by Adobe Acrobat
