@@ -53,13 +53,35 @@ Topics amenable to our workshop include, but are not limited to, the following:
 
 - OMASE website live: October 17, 2018
 - Call for papers: October 19, 2018
-- **Paper submission deadeline: December 28, 2018**
+- **Abstract registration: December 21, 2018**
+- **Paper submission deadline: December 28, 2018**
 - Notifications: January 11, 2019
 - Workshop date: February XYZ, 2019
 
 ## Submission Instructions
 
-** Coming soon **
+Abstracts and papers should  be submitted via the EasyChair conference system:
+
+** Comming soon **
+
+OMASE will accept full papers (8 pages) and short/position papers (5 pages).
+Please use version 1.54 or above of the following template to prepare your manuscript:
+
+[Sigplan Template](https://www.acm.org/publications/proceedings-template)
+
+with 10pt font. Make sure to use the sigplan subformat. Visit the 
+[SIGPLAN AuthorResources page] (http://sigplan.org/Resources/Author/) 
+for further information on SIGPLAN manuscript formatting.
+
+Papers must be submitted in PDF format (readable by Adobe Acrobat
+Reader 5.0 and higher) and formatted for 8.5" x 11" (U.S. Letter).
+
+Papers should present original research and should provide sufficient
+background material to make them accessible to the broader community. It
+should not be submitted in parallel to any other conference or journal.
+
+Acceptance of a paper commits at least one of the authors to register at
+CGO'19 and present the work.
 
 ## Questions
 
