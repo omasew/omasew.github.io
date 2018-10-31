@@ -62,7 +62,7 @@ Topics amenable to our workshop include, but are not limited to, the following:
 
 Abstracts and papers should  be submitted via the EasyChair conference system:
 
-** Comming soon **
+[OMASE Submission Link](https://easychair.org/conferences/?conf=omase19)
 
 OMASE will accept full papers (8 pages) and short/position papers (5 pages).
 Please use version 1.54 or above of the following template to prepare your manuscript:
