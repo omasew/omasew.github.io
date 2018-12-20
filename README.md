@@ -53,9 +53,12 @@ Topics amenable to our workshop include, but are not limited to, the following:
 
 - OMASE website live: October 17, 2018
 - Call for papers: October 19, 2018
-- **Abstract registration: December 21, 2018**
-- **Paper submission deadline: December 28, 2018**
-- Notifications: January 11, 2019
+- __Abstract registration: December 21, 2018__
+- **Abstract registration: January 4, 2019**
+- --Paper submission deadline: December 28, 2018--
+- **Paper submission deadline: January 8, 2019**
+- __Notifications: January 11, 2019__
+- Notifications: January 17, 2019
 - Workshop date: February 17, 2019
 
 ## Submission Instructions
