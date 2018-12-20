@@ -46,6 +46,7 @@ Topics amenable to our workshop include, but are not limited to, the following:
 • Tze Meng (Carnegie Mellon University)
 • Franz Franchetti (Carnegie Mellon University)
 • Richard Veras (Louisiana State University)
+• Emmanuelle Saillard (INRIA)
 ```
 
 
