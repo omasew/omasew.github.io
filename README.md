@@ -45,7 +45,7 @@ Topics amenable to our workshop include, but are not limited to, the following:
 • Michael Kruse (Argonne National Laboratory) 
 • Tze Meng (Carnegie Mellon University)
 • Franz Franchetti (Carnegie Mellon University)
-• Richard Veras (Louisiana State Univ)
+• Richard Veras (Louisiana State University)
 ```
 
 
