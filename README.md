@@ -58,7 +58,7 @@ Topics amenable to our workshop include, but are not limited to, the following:
 - ~~Abstract registration (NEW): January 4, 2019~~
 - **Abstract registration (NEW): January 13, 2019**
 - ~~Paper submission deadline: December 28, 2018~~
-- ~~Paper submission deadline (NEW): January 8, 2019**
+- ~~Paper submission deadline (NEW): January 8, 2019~~
 - **Paper submission deadline (NEW): January 15, 2019**
 - ~~Notifications: January 11, 2019~~
 - Notifications (NEW): January 23, 2019
