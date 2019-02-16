@@ -13,19 +13,19 @@ We are interested in research that spans one or more performance factors such as
 ---
 ## Program
 ```markdown
-8:30am: 
+_8:30am_
 Welcome 
 Mary Hall (University of Utah)
 
-8:45am - 9:30am : 
+_8:45am - 9:30am_
 Openning Talk
 Prasanna Balaprakash (Argonne National Laboratory)
 
-9:30am - 10:00am
+_9:30am - 10:00am_
 Tomer Morad (Concertio)
 Full-stack automatic optimization
 
-10:00am - 10:30am
+_10:00am - 10:30am_
 **Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
 Performance Exploration Through Optimistic Static Program Annotations
 
@@ -33,11 +33,11 @@ Performance Exploration Through Optimistic Static Program Annotations
 **Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
 Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
 
-11:00am - 11:30am
+_11:00am - 11:30am_
 **Mahdi Javanmard** and Robert Harrison (Stony Brook University)
 Dependence Programming and Tiling for Irregular Numerical Applications
 
-11:30am - 12:00
+_11:30am - 12:00m_
 Riyadh Baghdadi (MIT CSAIL)
 
 ```
