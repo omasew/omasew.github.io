@@ -13,33 +13,33 @@ We are interested in research that spans one or more performance factors such as
 ---
 ## Program
 ```markdown
-_8:30am_
+8:30am
 Welcome 
 Mary Hall (University of Utah)
 
-_8:45am - 9:30am_
-Openning Talk
+8:45am - 9:30am
+Opening Talk
 Prasanna Balaprakash (Argonne National Laboratory)
 
-_9:30am - 10:00am_
+9:30am - 10:00am
 Tomer Morad (Concertio)
-Full-stack automatic optimization
+Title: Full-stack automatic optimization
 
-_10:00am - 10:30am_
-**Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
-Performance Exploration Through Optimistic Static Program Annotations
+10:00am - 10:30am
+**Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
+Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
 
 10:30am - 11:00am
-**Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
-Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
+**Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
+Title: Performance Exploration Through Optimistic Static Program Annotations
 
-_11:00am - 11:30am_
+11:00am - 11:30am
 **Mahdi Javanmard** and Robert Harrison (Stony Brook University)
-Dependence Programming and Tiling for Irregular Numerical Applications
+Title: Dependence Programming and Tiling for Irregular Numerical Applications
 
-_11:30am - 12:00m_
+11:30am - 12:00m
 Riyadh Baghdadi (MIT CSAIL)
-
+Title: A Platform for Exploring Machine Learning Based AutoScheduling
 ```
 ---
 
