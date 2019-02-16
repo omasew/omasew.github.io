@@ -10,6 +10,39 @@ This workshop aims to highlight research that automates the derivation of archit
 
 We are interested in research that spans one or more performance factors such as the synergistic behavior of compile-time and runtime optimizations, application to architecture mapping, and the characterization of input-sensitive programs. The goal of the proposed workshop is to bring together academics, researchers, application scientists and programmers to share their preliminary research in all aspects of tuning and auto-tuning systems. 
 
+---
+## Program
+```markdown
+8:30am: 
+Welcome 
+Mary Hall (University of Utah)
+
+8:45am - 9:30am : 
+Openning Talk
+Prasanna Balaprakash (Argonne National Laboratory)
+
+9:30am - 10:00am
+Tomer Morad (Concertio)
+Full-stack automatic optimization
+
+10:00am - 10:30am
+**Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
+Performance Exploration Through Optimistic Static Program Annotations
+
+10:30am - 11:00am
+**Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
+Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
+
+11:00am - 11:30am
+**Mahdi Javanmard** and Robert Harrison (Stony Brook University)
+Dependence Programming and Tiling for Irregular Numerical Applications
+
+11:30am - 12:00
+Riyadh Baghdadi (MIT CSAIL)
+
+```
+---
+
 ## Organizers
 
 ```markdown
