@@ -20,6 +20,7 @@ Mary Hall (University of Utah)
 8:45am - 9:30am
 Opening Talk
 Prasanna Balaprakash (Argonne National Laboratory)
+Title: Machine-Learning-Based-Search for Automatic Performance Tuning
 
 9:30am - 10:00am
 Tomer Morad (Concertio)
