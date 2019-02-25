@@ -17,10 +17,12 @@ We are interested in research that spans one or more performance factors such as
 Welcome 
 Mary Hall (University of Utah)
 
+<span style="color:blue">
 [8:45am - 9:30am]
 Opening Talk  
 Prasanna Balaprakash (Argonne National Laboratory)  
 Title: *Machine-Learning-Based-Search for Automatic Performance Tuning*  
+</span>
 Abstract:
 ```markdown
 Empirical performance optimization of computer codes using autotuners has                                                   received significant attention in recent years. Given the increased complexity
