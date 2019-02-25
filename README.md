@@ -18,9 +18,9 @@ Welcome
 Mary Hall (University of Utah)
 
 [8:45am - 9:30am]
-Opening Talk\s\s
-Prasanna Balaprakash (Argonne National Laboratory)\s\s
-Title: Machine-Learning-Based-Search for Automatic Performance Tuning\s\s
+Opening Talk  
+Prasanna Balaprakash (Argonne National Laboratory)  
+Title: Machine-Learning-Based-Search for Automatic Performance Tuning  
 Abstract:
 ```markdown
 Empirical performance optimization of computer codes using autotuners has                                                   received significant attention in recent years. Given the increased complexity
@@ -37,9 +37,9 @@ maximum number of evaluations.
 ```
 
 
-[9:30am - 10:00am]\s\s
-Tomer Morad (Concertio)\s\s
-Title: Full-stack automatic optimization\s\s
+[9:30am - 10:00am]  
+Tomer Morad (Concertio)  
+Title: Full-stack automatic optimization  
 Abstract:
 ```markdown
 Modern systems employ hundreds of tunable settings in the processors, firmware,                                             applications and in compiler flags. While tailoring these system settings to
@@ -48,9 +48,9 @@ manually tuning them is an extremely difficult task. In this talk, Concertio's
 approach to automatic static and dynamic tuning will be presented.
 ```
 
-[10:00am - 10:30am]\s\s
-**Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)\s\s
-Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework\s\s
+[10:00am - 10:30am]  
+**Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)  
+Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework  
 Abstract:
 ```markdown
 We propose a compiler driven method by which parallel computations can be
@@ -75,9 +75,9 @@ believe that our contribution is towards automatic exploitation of GPU
 cache/memory hierarchy.
 ```
 
-[10:30am - 11:00am]\s\s
-**Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)\s\s
-Title: Performance Exploration Through Optimistic Static Program Annotations\s\s
+[10:30am - 11:00am]  
+**Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)  
+Title: Performance Exploration Through Optimistic Static Program Annotations  
 Abstract:
 ```markdown
 Compilers are limited by the static information directly or indirectly encoded
@@ -105,13 +105,13 @@ annotation of all correct static information is therefore not only error prone
 but also mostly redundant.
 ```
 
-[11:00am - 11:30am]\s\s
-**Mahdi Javanmard** and Robert Harrison (Stony Brook University)\s\s
-Title: Dependence Programming and Tiling for Irregular Numerical Applications\s\s
+[11:00am - 11:30am]  
+**Mahdi Javanmard** and Robert Harrison (Stony Brook University)  
+Title: Dependence Programming and Tiling for Irregular Numerical Applications  
 
-[11:30am - 12:00m]\s\s
-Riyadh Baghdadi (MIT CSAIL)\s\s
-Title: A Platform for Exploring Machine Learning Based AutoScheduling\s\s
+[11:30am - 12:00m]  
+Riyadh Baghdadi (MIT CSAIL)  
+Title: A Platform for Exploring Machine Learning Based AutoScheduling  
 Abstract:
 ```markdown
 Building a platform for exploring machine learning based auto-scheduling                                                    requires many steps. The first step is to build a compiler that has an API that
