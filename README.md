@@ -20,7 +20,7 @@ Mary Hall (University of Utah)
 [8:45am - 9:30am]
 Opening Talk  
 Prasanna Balaprakash (Argonne National Laboratory)  
-Title: Machine-Learning-Based-Search for Automatic Performance Tuning  
+Title: *Machine-Learning-Based-Search for Automatic Performance Tuning*  
 Abstract:
 ```markdown
 Empirical performance optimization of computer codes using autotuners has                                                   received significant attention in recent years. Given the increased complexity
@@ -39,7 +39,7 @@ maximum number of evaluations.
 
 [9:30am - 10:00am]  
 Tomer Morad (Concertio)  
-Title: Full-stack automatic optimization  
+Title: *Full-stack automatic optimization*  
 Abstract:
 ```markdown
 Modern systems employ hundreds of tunable settings in the processors, firmware,                                             applications and in compiler flags. While tailoring these system settings to
@@ -50,7 +50,7 @@ approach to automatic static and dynamic tuning will be presented.
 
 [10:00am - 10:30am]  
 **Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)  
-Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework  
+Title: *Polyhedral Model Guided Automatic GPU Cache Exploitation Framework*  
 Abstract:
 ```markdown
 We propose a compiler driven method by which parallel computations can be
@@ -77,7 +77,7 @@ cache/memory hierarchy.
 
 [10:30am - 11:00am]  
 **Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)  
-Title: Performance Exploration Through Optimistic Static Program Annotations  
+Title: *Performance Exploration Through Optimistic Static Program Annotations*  
 Abstract:
 ```markdown
 Compilers are limited by the static information directly or indirectly encoded
@@ -111,7 +111,7 @@ Title: Dependence Programming and Tiling for Irregular Numerical Applications
 
 [11:30am - 12:00m]  
 Riyadh Baghdadi (MIT CSAIL)  
-Title: A Platform for Exploring Machine Learning Based AutoScheduling  
+Title: *A Platform for Exploring Machine Learning Based AutoScheduling*  
 Abstract:
 ```markdown
 Building a platform for exploring machine learning based auto-scheduling                                                    requires many steps. The first step is to build a compiler that has an API that
