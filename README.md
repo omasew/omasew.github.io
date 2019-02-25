@@ -12,17 +12,17 @@ We are interested in research that spans one or more performance factors such as
 
 ---
 ## Program
-```markdown
 
-8:30am
+[8:30am]
 Welcome 
 Mary Hall (University of Utah)
 
-8:45am - 9:30am
+[8:45am - 9:30am]
 Opening Talk
 Prasanna Balaprakash (Argonne National Laboratory)
 Title: Machine-Learning-Based-Search for Automatic Performance Tuning
 Abstract:
+```markdown
 Empirical performance optimization of computer codes using autotuners has                                                   received significant attention in recent years. Given the increased complexity
 of computer architectures and scientific codes, evaluating all possible code
 variants is prohibitively expensive for all but the simplest kernels. One way
@@ -34,21 +34,25 @@ machine-learning-based search method for autotuning that consists of sampling a
 small number of input parameter configurations and progressively fitting a
 surrogate model over the input-output space until exhausting the user-defined
 maximum number of evaluations.
+```
 
 
-9:30am - 10:00am
+[9:30am - 10:00am]
 Tomer Morad (Concertio)
 Title: Full-stack automatic optimization
 Abstract:
+```markdown
 Modern systems employ hundreds of tunable settings in the processors, firmware,                                             applications and in compiler flags. While tailoring these system settings to
 the needs of the applied workloads can yield significantly higher performance,
 manually tuning them is an extremely difficult task. In this talk, Concertio's
 approach to automatic static and dynamic tuning will be presented.
+```
 
-10:00am - 10:30am
+[10:00am - 10:30am]
 **Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
 Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
 Abstract:
+```markdown
 We propose a compiler driven method by which parallel computations can be
 accelerated on GPUs by exploiting the various special varieties of caches
 (texture, surface and constant for NVIDIA GPUs).  We show that our method
@@ -69,11 +73,13 @@ GPU caches that were originally designed for image processing applications.
 With increasing interest in mapping general purpose algorithms on GPUs, we
 believe that our contribution is towards automatic exploitation of GPU
 cache/memory hierarchy.
+```
 
 [10:30am - 11:00am]
 **Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
 Title: Performance Exploration Through Optimistic Static Program Annotations
 Abstract:
+```markdown
 Compilers are limited by the static information directly or indirectly encoded
 in the program. Low-level languages, such as C/C++, are considered problematic
 because their weak type system and relaxed memory semantic allows for various,
@@ -97,16 +103,18 @@ uncertainty limits performance. At the same time, we observed that compilers
 are often unable to utilize additional static information. Thus, manual
 annotation of all correct static information is therefore not only error prone
 but also mostly redundant.
+```
 
-11:00am - 11:30am
+[11:00am - 11:30am]
 **Mahdi Javanmard** and Robert Harrison (Stony Brook University)
 Title: Dependence Programming and Tiling for Irregular Numerical Applications
 
-11:30am - 12:00m
+[11:30am - 12:00m]
 Riyadh Baghdadi (MIT CSAIL)
 Title: A Platform for Exploring Machine Learning Based AutoScheduling
 Abstract:
-uilding a platform for exploring machine learning based auto-scheduling                                                    requires many steps. The first step is to build a compiler that has an API that
+```markdown
+Building a platform for exploring machine learning based auto-scheduling                                                    requires many steps. The first step is to build a compiler that has an API that
 exposes scheduling decisions. In this presentation, we present
 Tiramisu (http://tiramisu-compiler.org/). A polyhedral compiler that exposes
 an API allowing users to control scheduling decisions.  Tiramisu provides a
