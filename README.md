@@ -107,7 +107,7 @@ but also mostly redundant.
 
 [11:00am - 11:30am]  
 **Mahdi Javanmard** and Robert Harrison (Stony Brook University)  
-Title: Dependence Programming and Tiling for Irregular Numerical Applications  
+Title: *Dependence Programming and Tiling for Irregular Numerical Applications*  
 
 [11:30am - 12:00m]  
 Riyadh Baghdadi (MIT CSAIL)  
