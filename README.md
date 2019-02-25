@@ -19,9 +19,9 @@ Welcome
 Mary Hall (University of Utah)
 
 8:45am - 9:30am
-Opening Talk
-Prasanna Balaprakash (Argonne National Laboratory)
-Title: Machine-Learning-Based-Search for Automatic Performance Tuning
+###Opening Talk
+###Prasanna Balaprakash (Argonne National Laboratory)
+###Title: Machine-Learning-Based-Search for Automatic Performance Tuning
 Abstract:
 We propose a compiler driven method by which parallel computations can be
 accelerated on GPUs by exploiting the various special varieties of caches
@@ -47,6 +47,11 @@ cache/memory hierarchy.
 9:30am - 10:00am
 Tomer Morad (Concertio)
 Title: Full-stack automatic optimization
+Abstract:
+Modern systems employ hundreds of tunable settings in the processors, firmware,                                             applications and in compiler flags. While tailoring these system settings to
+the needs of the applied workloads can yield significantly higher performance,
+manually tuning them is an extremely difficult task. In this talk, Concertio's
+approach to automatic static and dynamic tuning will be presented.
 
 10:00am - 10:30am
 **Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
@@ -76,6 +81,30 @@ cache/memory hierarchy.
 10:30am - 11:00am
 **Johannes Doerfert**, Brian Homerding and Hal Finkel (Argonne National Laboratory)
 Title: Performance Exploration Through Optimistic Static Program Annotations
+Abstract:
+Compilers are limited by the static information directly or indirectly encoded
+in the program. Low-level languages, such as C/C++, are considered problematic
+because their weak type system and relaxed memory semantic allows for various,
+sometimes non-obvious, behaviors. Since compilers have to preserve the program
+semantics for all program executions, the existence of exceptional behavior can
+prevent optimizations that the developer would consider valid and might expect.
+Analyses to guarantee the absence of disruptive and unlikely situations are
+consequently an indispensable part of an optimizing compiler. However, such
+analyses have to be approximative and limited in scope as global and exact
+solutions are infeasible for any non-trivial program.
+
+In this talk, we present an automated tool to measure the effect missing
+static information has on the optimizations applied to a given program. The
+approach generates an optimistically optimized program version which, compared
+to the original, defines a performance gap that can be closed by better
+compiler analyses and selective static program annotations.
+
+Our evaluation on six already tuned proxy applications for high-performance
+codes shows speedups of up to *20.6\%*. This clearly indicates that static
+uncertainty limits performance. At the same time, we observed that compilers
+are often unable to utilize additional static information. Thus, manual
+annotation of all correct static information is therefore not only error prone
+but also mostly redundant.
 
 11:00am - 11:30am
 **Mahdi Javanmard** and Robert Harrison (Stony Brook University)
