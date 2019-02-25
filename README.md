@@ -22,7 +22,7 @@ Opening Talk
 Prasanna Balaprakash (Argonne National Laboratory)
 Title: Machine-Learning-Based-Search for Automatic Performance Tuning
 Abstract:
-```
+```markdown
 Empirical performance optimization of computer codes using autotuners has received significant attention in recent years. Given the increased complexity of computer architectures and scientific codes, evaluating all possible code variants is prohibitively expensive for all but the simplest kernels. One way for autotuners to overcome this hurdle is through use of a search algorithm that finds high-performing code variants while examining relatively few variants. In this talk we will discuss the search problem in autotuning from a mathematical optimization perspective. Then, we will describe machine-learning-based search method for autotuning that consists of sampling a small number of input parameter configurations and progressively fitting a surrogate model over the input-output space until exhausting the user-defined maximum number of evaluations.
 ```
 
@@ -34,7 +34,7 @@ Title: Full-stack automatic optimization
 **Abhishek Patwardhan** and Ramakrishna Upadrasta (Indian Institute of Technology, Hyderabad, India)
 Title: Polyhedral Model Guided Automatic GPU Cache Exploitation Framework
 Abstract:
-```
+```markdown
 We propose a compiler driven method by which parallel computations can be accelerated on GPUs by exploiting the various special varieties of caches (texture, surface and constant for NVIDIA GPUs). 
 We show that our method obtains superior performance for certain class of computations when compared with earlier methods that use on-chip shared memory. 
 We provide an end-to-end solution by developing a \textit{fully automatic} sound, static framework within a state-of-art source-to-source Polyhedral compiler (PPCG) to exploit these varieties of GPU caches. 
@@ -58,7 +58,7 @@ Title: Dependence Programming and Tiling for Irregular Numerical Applications
 Riyadh Baghdadi (MIT CSAIL)
 Title: A Platform for Exploring Machine Learning Based AutoScheduling
 Abstract:
-```
+```markdown
 Building a platform for exploring machine learning based auto-scheduling requires many steps. The first step is to build a compiler that has an API that exposes scheduling decisions. In this presentation, we present [Tiramisu](http://tiramisu-compiler.org/). A polyhedral compiler that exposes an API allowing users to control scheduling decisions.  Tiramisu provides a simple C++ API for expressing algorithms (Tiramisu expressions) and controlling scheduling decisions. Tiramisu can be used in areas such as linear and tensor algebra, deep learning, image processing, stencil computations and machine learning.  Currently it targets multicore X86 CPUs, Nvidia GPUs, Xilinx FPGAs (Vivado HLS) and distributed machines (using MPI).
 ```
 ```
