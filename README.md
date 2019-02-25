@@ -17,7 +17,7 @@ We are interested in research that spans one or more performance factors such as
 Welcome 
 Mary Hall (University of Utah)
 
-<span style="color:blue">
+<span style="background-color:grat">
 [8:45am - 9:30am]
 Opening Talk  
 Prasanna Balaprakash (Argonne National Laboratory)  
